@@ -60,13 +60,10 @@ body {
   
   /* Rodapé */
   footer {
-    background: #2a6fba;
+    background-color: #0199cc;
     color: #ffffff;
     padding: 5%;
     margin: 0px;
-    background-image: url('gettyimages-1173257070-612x612.jpg');
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
   }
   
   .footer-content {
